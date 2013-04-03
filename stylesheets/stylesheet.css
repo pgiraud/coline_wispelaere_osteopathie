@@ -1,5 +1,9 @@
 body {
     border-top: 5px solid #9635bf;
+    background-image:url('../images/bg.png');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:bottom left;
 }
 h1 {
     margin-bottom: 30px;
