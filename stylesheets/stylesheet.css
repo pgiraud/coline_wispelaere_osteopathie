@@ -76,3 +76,18 @@ footer hr {
     padding: 0px;
     border-bottom: 1px solid #111;
 }
+
+.logo-doctolib {
+    background-image: url(../images/doctolib.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 95px auto;
+    display: inline-block;
+    height: 50px;
+    width: 95px;
+}
+
+.card-header.doctolib,
+.btn.btn-doctolib {
+    background-color: #107aca;
+}
